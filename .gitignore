@@ -12,6 +12,7 @@ __pycache__/
 # Directories
 dataset/*
 archive/
+save_data/*
 
 # zip files
 *.zip
