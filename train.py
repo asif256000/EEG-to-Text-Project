@@ -10,10 +10,10 @@ from glob import glob
 import time
 import copy
 from tqdm import tqdm
-from transformers import BertLMHeadModel, BartTokenizer, BartForConditionalGeneration, BartConfig, BartForSequenceClassification, BertTokenizer, BertConfig, BertForSequenceClassification, RobertaTokenizer, RobertaForSequenceClassification
+from transformers import BartTokenizer, BartForConditionalGeneration, BartConfig
 
 from data_utils import ZuCo_dataset
-from test_models import BrainTranslator
+from models import BrainTranslator
 from get_config import get_config
 from utils import *
 
@@ -93,6 +93,7 @@ if __name__ == '__main__':
     task_name = args['task_name']
 
     save_path = args['save_path']
+    save_name = os.path.basename(save_path)
 
     skip_step_one = args['skip_step_one']
     load_step_one = args['load_step_one']
@@ -150,7 +151,7 @@ if __name__ == '__main__':
 
     ''' save config '''
     print('\n[*] Saving config ...')
-    config_save_path = './save_data/config/config.pickle'
+    config_save_path = f'./save_data/config/config_{save_name}.pickle'
     init_dirs(os.path.dirname(config_save_path))
     with open(config_save_path, 'wb') as f:
         pickle.dump(args, f)

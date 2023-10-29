@@ -35,6 +35,7 @@ def get_config(case):
 
         parser.add_argument('--checkpoint-path', '-checkpoint', type=str, default=None, required=True)
         parser.add_argument('--config-path', '-config', type=str, default=None, required=True)
+        parser.add_argument('--output-results-path', '-output', type=str, default='./save_data/eval_results/results.txt')
         args = vars(parser.parse_args())
     
     return args

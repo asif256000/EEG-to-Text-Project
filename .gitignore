@@ -10,13 +10,20 @@ __pycache__/
 .conda_config
 
 # Directories
-dataset/*
-archive/
-save_data/*
+*/dataset/*
+*/archive/
+*/save_data/*
 
 # zip files
 *.zip
 */*.zip
+
+# skip saved files
+*pickle
+*.pt
+*.pth
+*.mat
+
 
 # Distribution / packaging
 .Python
