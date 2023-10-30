@@ -76,8 +76,8 @@ def train(dataloaders, device, model, optimizer, scheduler, num_epochs=25, check
         torch.save(model.state_dict(), checkpoint_path_last)
         print(f'\n[*] Saved last model to {checkpoint_path_last}')
 
-        model.load_state_dict(best_model_wts)
-        return model
+    model.load_state_dict(best_model_wts)
+    return model
     
 
 if __name__ == '__main__':
@@ -112,8 +112,8 @@ if __name__ == '__main__':
     if use_random_init:
         save_name = 'randominit_' + save_name
 
-    output_checkpoint_best = os.path.join(save_path, 'checkpoints', save_name, 'best', 'final.pt')
-    output_checkpoint_last = os.path.join(save_path, 'checkpoints', save_name, 'last', 'final.pt')
+    output_checkpoint_best = os.path.join(save_path, f'checkpoints_{save_name}', 'best', 'final.pt')
+    output_checkpoint_last = os.path.join(save_path, f'checkpoints_{save_name}', 'last', 'final.pt')
     init_dirs([os.path.dirname(output_checkpoint_best), os.path.dirname(output_checkpoint_last)])
 
     eeg_type = args['eeg_type']
