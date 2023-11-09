@@ -1,13 +1,26 @@
+"""
+This file contains the brain decoder model. This model is used to decode the EEG signals into words. It consists of 
+an additional transformer layer before a pretrained BART model. The brain is assumed to be the encoder and the EEG 
+signals as the eeg-word embedding. These eeg-word embeddings are then fed through a into the pretrained BART model to generate
+word embeddings. The word embeddings are then compared to the target word embeddings to compute the loss.
+"""
+
 import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 import torch.utils.data
 import numpy as np
-from transformers import BartTokenizer, BartForConditionalGeneration, BartConfig
 
 
 class BrainTranslator(nn.Module):
     def __init__(self, pretrained_layers, input_dim=840, embedding_dim=1024, encoder_heads=8, encoder_dim_feedforward=2048):
+        '''
+        :param pretrained_layers: pretrained BART model
+        :param input_dim: input dimension of EEG signals
+        :param embedding_dim: embedding dimension of EEG signals embedding
+        :param encoder_heads: number of heads in the encoder layer
+        :param encoder_dim_feedforward: dimension of the feedforward layer in the encoder layer
+        '''
         super(BrainTranslator, self).__init__()
 
         self.pretrained = pretrained_layers

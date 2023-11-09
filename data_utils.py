@@ -7,14 +7,18 @@ from transformers import BartTokenizer
 import argparse
 
 
+# normalize the eeg-word embedding tensor
 def normalize(tensor):
     mean = torch.mean(tensor)
     std = torch.std(tensor)
     return (tensor - mean) / std
 
+
+# for each word, get the eeg-word embedding tensor
 def sample(subj_data_dict, tokenizer, eeg_type='GD', 
            bands=['_t1','_t2','_a1','_a2','_b1','_b2','_g1','_g2'], add_CLS_token=False, max_len=57):
     
+    # read EEG data corresponding to given word
     def get_eeg_data(word_obj, eeg_type, bands):
         eeg_data = []
         for band in bands:
@@ -30,6 +34,7 @@ def sample(subj_data_dict, tokenizer, eeg_type='GD',
     if subj_data_dict is None:
         return None
     
+    # read the sentence and tokenize it to get the target word embedding
     input_sample = {}
     target_string = subj_data_dict['content']
     target_tokens = tokenizer(target_string, return_tensors='pt', padding='max_length', max_length=max_len,
@@ -55,11 +60,13 @@ def sample(subj_data_dict, tokenizer, eeg_type='GD',
             return None
         word_embeddings.append(word_eeg_embedding_tensor)
 
+    # pad the eeg-word embedding tensor to max_len
     while len(word_embeddings) < max_len:
         word_embeddings.append(torch.zeros(105*len(bands)))
 
     input_sample['input_embeddings'] = torch.stack(word_embeddings)
 
+    # mask out padding for computing attention
     input_sample['input_attn_mask'] = torch.zeros(max_len)
     if add_CLS_token:
         input_sample['input_attn_mask'][:len(subj_data_dict['word'])+1] = torch.ones(len(subj_data_dict['word'])+1)
@@ -84,7 +91,7 @@ def sample(subj_data_dict, tokenizer, eeg_type='GD',
 
     
 
-
+# dataset class
 class ZuCo_dataset(Dataset):
     def __init__(self, input_datasets_list, tokenizer, phase, eeg_type='GD',
                  bands = ['_t1','_t2','_a1','_a2','_b1','_b2','_g1','_g2'],
@@ -127,6 +134,13 @@ class ZuCo_dataset(Dataset):
                 print('\n[*] Loading testset...')
                 for key in subjects:
                     for i in range(dev_len, total_num_sentences):
+                        input_sample = sample(input_data_dict[key][i], self.tokenizer, eeg_type, bands, add_CLS_token)
+                        if input_sample is not None:
+                            self.inputs.append(input_sample)
+            elif phase == 'dataset':
+                print('\n[*] Loading dataset...')
+                for key in subjects:
+                    for i in range(total_num_sentences):
                         input_sample = sample(input_data_dict[key][i], self.tokenizer, eeg_type, bands, add_CLS_token)
                         if input_sample is not None:
                             self.inputs.append(input_sample)

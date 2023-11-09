@@ -24,14 +24,16 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
     target_string_list = []
     pred_token_list = []
     pred_string_list = []
-
+    
     with open(output_results_path, 'w') as f:
         for input_embeddings, seq_len, input_masks, input_masks_invert, target_ids, target_masks in tqdm(dataloader['test']):
+            # get eeg-word embedding tensor and target word embedding tensor
             input_embeddings_batch = input_embeddings.to(device).float()
             input_masks_batch = input_masks.to(device)
             input_masks_invert = input_masks_invert.to(device)
             target_ids_batch = target_ids.to(device)
 
+            # decode target word embedding tensor to get target string
             target_tokens = tokenizer.convert_ids_to_tokens(target_ids_batch[0].tolist(), skip_special_tokens=True)
             target_string = tokenizer.decode(target_ids_batch[0].tolist(), skip_special_tokens=True)
             f.write('Target string: {}\n'.format(target_string))
@@ -41,6 +43,7 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
 
             target_ids_batch[target_ids_batch == tokenizer.pad_token_id] = -100
 
+            # use brain decoder model to get reconstructed string from eeg-word embedding
             model_output = model(input_embeddings_batch, input_masks_batch, input_masks_invert, target_ids_batch)
             loss = model_output.loss
 
@@ -49,6 +52,7 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
             values, predictions = probs.topk(1)
             predictions = predictions.squeeze()
             predicted_string = tokenizer.decode(predictions).split('</s></s>')[0].replace('<s>', '')
+            # save in a txt file
             f.write('Predicted string: {}\n'.format(predicted_string))
             f.write('--------------------------------------------------------------\n\n\n')
 
@@ -124,7 +128,9 @@ if __name__ == '__main__':
     tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
 
     test_dataset = ZuCo_dataset(input_dataset_list, tokenizer, 'test', eeg_type=eeg_type, bands=bands)
-    print('\ntestset size: ', len(test_dataset))
+    print('--------------------------------------------------------------')
+    print('testset size: ', len(test_dataset))
+    print('--------------------------------------------------------------')
     print('\n\n')
 
     test_dataloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, num_workers=4)

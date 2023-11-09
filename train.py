@@ -4,7 +4,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
-from torch.utils.data import DataLoader, Dataset, RandomSampler, SequentialSampler
+from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 from glob import glob
 import time
@@ -171,15 +171,15 @@ if __name__ == '__main__':
     dataloaders = {'train': train_dataloader, 'val': dev_dataloader}
 
     ''' load model '''
-    if use_random_init:
+    if use_random_init:     # use randomly initialized BART
         config = BartConfig.from_pretrained('facebook/bart-large')
         pretrained = BartForConditionalGeneration(config)
-    else:
+    else:                   # use pretrained BART
         pretrained = BartForConditionalGeneration.from_pretrained('facebook/bart-large')
     model = BrainTranslator(pretrained, input_dim=105*len(bands), embedding_dim=1024, encoder_heads=8, encoder_dim_feedforward=2048)
     model.to(device)
 
-    ''' step one trainig: freeze most of BART params '''
+    ''' step one training: freeze most of BART params '''
     for name, param in model.named_parameters():
         if 'pretrained' in name and param.requires_grad:
             if ('shared' in name) or ('embed_positions' in name) or ('encoder.layers.0' in name):

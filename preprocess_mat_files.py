@@ -1,3 +1,7 @@
+"""
+Script to preprocess the mat files from the dataset and save the data as a dictionary. 
+The disctionary consists of word level EEG data.
+"""
 import numpy as np
 import pandas as pd
 import pickle
@@ -11,6 +15,7 @@ from scipy.io import loadmat
 import h5py
 
 
+# open mat file
 def load_mat_files(filepath):
     try:
         mat_data = loadmat(filepath, squeeze_me=True, struct_as_record=False)['sentenceData']
@@ -19,6 +24,7 @@ def load_mat_files(filepath):
         mat_data = mat_data['sentenceData']
     return mat_data
 
+# read the contents of the mat file
 def read_mat_file(mat_data, dataset, subject_name):
     for sent in mat_data:
         word_data = sent.word
@@ -32,11 +38,11 @@ def read_mat_file(mat_data, dataset, subject_name):
             word_token_has_fixations = []
             word_token_with_mask = []
             word_token_all = []
-
-            for word in word_data:
+            for word in word_data:      # read word-level EEG data
                 word_object = {'content': word.content}
                 word_token_all.append(word.content)
 
+                # if the users fixate on a word, then read the corresponding EEG data
                 word_object['n_fixations'] = word.nFixations
                 if word.nFixations > 0:    
                     word_object['word_level_EEG'] = {'FFD':{'FFD_t1':word.FFD_t1, 'FFD_t2':word.FFD_t2, 'FFD_a1':word.FFD_a1, 
