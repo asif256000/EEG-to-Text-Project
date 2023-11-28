@@ -104,16 +104,11 @@ if __name__ == '__main__':
     if use_random_init and skip_step_one:
         step2_lr = 5e-4
     
-    if skip_step_one:
-        save_name = f'{task_name}_skipstep1_b{batch_size}_sone{step1_lr}_stwo{step2_lr}_eone{num_epochs_step1}_etwo{num_epochs_step2}'
-    else:
-        save_name = f'{task_name}_2steptraining_b{batch_size}_sone{step1_lr}_stwo{step2_lr}_eone{num_epochs_step1}_etwo{num_epochs_step2}'
-
     if use_random_init:
         save_name = 'randominit_' + save_name
 
-    output_checkpoint_best = os.path.join(save_path, f'checkpoints_{save_name}', 'best', 'final.pt')
-    output_checkpoint_last = os.path.join(save_path, f'checkpoints_{save_name}', 'last', 'final.pt')
+    output_checkpoint_best = os.path.join(save_path, 'best', 'final.pt')
+    output_checkpoint_last = os.path.join(save_path, 'last', 'final.pt')
     init_dirs([os.path.dirname(output_checkpoint_best), os.path.dirname(output_checkpoint_last)])
 
     eeg_type = args['eeg_type']
