@@ -7,7 +7,9 @@ from transformers import BartTokenizer, BartForConditionalGeneration
 from nltk.translate.bleu_score import corpus_bleu, sentence_bleu
 from torch.utils.data import DataLoader, Dataset, RandomSampler, SequentialSampler
 import torch
+
 from rouge import Rouge
+from nltk.translate.bleu_score import sentence_bleu, corpus_bleu
 
 from get_config import get_config
 from data_utils import ZuCo_dataset
@@ -73,10 +75,27 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
         running_loss = running_loss / len(dataloader['test'].dataset)
         print('Test Loss: {}'.format(running_loss))
 
-        ''' corpus bleu score '''
+        ''' corpus rouge score '''
         rouge = Rouge()
-        scores = rouge.get_scores(pred_string_list, target_string_list, avg=True)
-        print('ROUGE scores: {}'.format(scores))
+        rouge_score = rouge.get_scores(pred_string_list, target_string_list, avg=True)
+        rouge1_score = rouge_score['rouge-1']
+
+        print('rouge-1 score P: ', rouge1_score['p'])
+        print('rouge-1 score R: ', rouge1_score['r'])
+        print('rouge-1 score F: ', rouge1_score['f'])
+
+        ''' corpus bleu score '''
+        list_of_references = [[tt] for tt in target_token_list]
+
+        bleu1_score = corpus_bleu(list_of_references, pred_token_list, weights=(1, 0, 0, 0))
+        bleu2_score = corpus_bleu(list_of_references, pred_token_list, weights=(0, 1, 0, 0))
+        bleu3_score = corpus_bleu(list_of_references, pred_token_list, weights=(0, 0, 1, 0))
+        bleu4_score = corpus_bleu(list_of_references, pred_token_list, weights=(0, 0, 0, 1))
+
+        print('BLEU1: ', bleu1_score)
+        print('BLEU2: ', bleu2_score)
+        print('BLEU3: ', bleu3_score)
+        print('BLEU4: ', bleu4_score)
 
 
 if __name__ == '__main__':
@@ -146,5 +165,5 @@ if __name__ == '__main__':
     criterion = torch.nn.CrossEntropyLoss()
 
     ''' eval '''
-    eval(dataloaders, device, tokenizer, criterion, model, output_results_path)
+    test_loss, rouge_score, bleu_score = eval(dataloaders, device, tokenizer, criterion, model, output_results_path)
 
