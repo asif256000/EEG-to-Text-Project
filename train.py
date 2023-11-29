@@ -20,12 +20,12 @@ from utils import *
 
 def train(dataloaders, device, model, optimizer, scheduler, num_epochs=25, checkpoint_path_best='./save_data/checkpoints/decoding/best/final.pt',
           checkpoint_path_last='./save_data/checkpoints/decoding/last/final.pt'):
-    tic = time.time()
 
     best_model_wts = copy.deepcopy(model.state_dict())
     best_loss = np.inf
 
     for epoch in range(num_epochs):
+        tic = time.time()
         print('Epoch {}/{}'.format(epoch, num_epochs - 1))
         print('-' * 20)
 
@@ -161,8 +161,8 @@ if __name__ == '__main__':
     print('devset size: ', len(dev_dataset))
     print('\n\n')
 
-    train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=4)
-    dev_dataloader = DataLoader(dev_dataset, batch_size=batch_size, shuffle=False, num_workers=4)
+    train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=8)
+    dev_dataloader = DataLoader(dev_dataset, batch_size=batch_size, shuffle=False, num_workers=8)
     dataloaders = {'train': train_dataloader, 'val': dev_dataloader}
 
     ''' load model '''

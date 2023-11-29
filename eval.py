@@ -27,6 +27,11 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
     pred_token_list = []
     pred_string_list = []
     
+    output_score_path = output_results_path.replace('.txt', '_score.txt')
+
+    print(output_results_path)
+    print(output_score_path)
+
     with open(output_results_path, 'w') as f:
         for input_embeddings, seq_len, input_masks, input_masks_invert, target_ids, target_masks in tqdm(dataloader['test']):
             # get eeg-word embedding tensor and target word embedding tensor
@@ -72,17 +77,22 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
 
             running_loss += loss.item() * input_embeddings_batch.size()[0]
         
+    with open(output_score_path, 'w') as f:
         running_loss = running_loss / len(dataloader['test'].dataset)
-        print('Test Loss: {}'.format(running_loss))
+        f.write('Test Loss: {}\n'.format(running_loss))
+        f.write('--------------------------------------------------------------\n\n\n')
 
         ''' corpus rouge score '''
         rouge = Rouge()
         rouge_score = rouge.get_scores(pred_string_list, target_string_list, avg=True)
         rouge1_score = rouge_score['rouge-1']
 
-        print('rouge-1 score P: ', rouge1_score['p'])
-        print('rouge-1 score R: ', rouge1_score['r'])
-        print('rouge-1 score F: ', rouge1_score['f'])
+        f.write('ROUGE SCORES\n')
+        f.write('-----\n')
+        f.write('rouge-1 score P: {}\n'.format(rouge1_score['p']))
+        f.write('rouge-1 score R: {}\n'.format(rouge1_score['r']))
+        f.write('rouge-1 score F: {}\n'.format(rouge1_score['f']))
+        f.write('--------------------------------------------------------------\n\n\n')
 
         ''' corpus bleu score '''
         list_of_references = [[tt] for tt in target_token_list]
@@ -92,10 +102,13 @@ def eval(dataloader, device, tokenizer, criterion, model, output_results_path='.
         bleu3_score = corpus_bleu(list_of_references, pred_token_list, weights=(0, 0, 1, 0))
         bleu4_score = corpus_bleu(list_of_references, pred_token_list, weights=(0, 0, 0, 1))
 
-        print('BLEU1: ', bleu1_score)
-        print('BLEU2: ', bleu2_score)
-        print('BLEU3: ', bleu3_score)
-        print('BLEU4: ', bleu4_score)
+        f.write('BLEU SCORES\n')
+        f.write('-----\n')
+        f.write('BLEU1: {}\n'.format(bleu1_score))
+        f.write('BLEU2: {}\n'.format(bleu2_score))
+        f.write('BLEU3: {}\n'.format(bleu3_score))
+        f.write('BLEU4: {}\n'.format(bleu4_score))
+        f.write('--------------------------------------------------------------\n\n\n')
 
 
 if __name__ == '__main__':
@@ -106,7 +119,7 @@ if __name__ == '__main__':
     ''' load training config'''
     training_config = pickle.load(open(args['config_path'], 'rb'))
 
-    output_results_path = os.path.join('./save_data/eval_results', f"results_{os.path.basename(training_config['save_path'])}")
+    output_results_path = os.path.join('./save_data/eval_results', f"results_{os.path.basename(training_config['save_path'])}.txt")
 
     eeg_type = training_config['eeg_type']
     bands = training_config['bands']
@@ -165,5 +178,5 @@ if __name__ == '__main__':
     criterion = torch.nn.CrossEntropyLoss()
 
     ''' eval '''
-    test_loss, rouge_score, bleu_score = eval(dataloaders, device, tokenizer, criterion, model, output_results_path)
+    eval(dataloaders, device, tokenizer, criterion, model, output_results_path)
 
