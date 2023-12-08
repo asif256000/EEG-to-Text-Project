@@ -1,0 +1,2000 @@
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He was married with HRH Princess Olga of Greece and Denmark in 1923.
+Predicted string:  was a to twoD Princess Annega of Sweden in Bulgaria in 18.
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+
+Target string: He married his second wife, Elizabeth Harris in June 2003.
+Predicted string:  was his wife wife, a,, May of.</s>,
+--------------------------------------------------------------
+
+
+Target string: Dole has been married to Senator Elizabeth Dole, nee Hanford of North Carolina since 1975.
+Predicted string: ennis, a a for his John Dle for ae Dley, New Carolina, 18.</s> of was
+--------------------------------------------------------------
+
+
+Target string: The couple have four children: daughters Katherine and Christina, and sons Patrick and Christopher.
+Predicted string:  New was a children, a,, K, and son Michael and Michael.</s> the (
+--------------------------------------------------------------
+
+
+Target string: Barrymore married Katherine Corri Harris (1891-1927), an actress who starred in the 1918 film The House of Mirth, on September 1, 1910 and divorced in 1916.
+Predicted string: eth was, his Bley in in1997-1958) a American, was in the film film The Great of Mirth. and August 17, 1928. was in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: He married Blanche Marie Louise Oelrichs (1890-1950), a New York mining heiress who wrote under the pseudonym "Michael Strange," on August 5, 1920 and divorced her in 1925.
+Predicted string:  was hisanche, ( ('rich in inborn97-19) a French York City engineeriress, was the the name "M O". in August 17, 1950. died in in 18.</s>,,
+--------------------------------------------------------------
+
+
+Target string: His fourth wife was Elaine Barrie (nee Elaine Jacobs, 1916-2003), an actress; they married on November 9, 1936 and divorced in 1940.
+Predicted string:  name wife, a,low,born B Smith), born-2008), a American and his had in July 17, 1947 in had on 1939.</s>,
+--------------------------------------------------------------
+
+
+Target string: Grant married Julia Boggs Dent (1826 - 1902) on August 22, 1848.
+Predicted string:  of a in.s in in1997- 18) in July 17, 1894 in</s>,
+--------------------------------------------------------------
+
+
+Target string: He was given just his grandfather's first and last name and was not given any middle name.
+Predicted string:  was a a over first's name name only name, his a a his other name.</s> of was
+--------------------------------------------------------------
+
+
+Target string: Kennedy married his second wife Jacqueline Bouvier on September 12, 1953.
+Predicted string: eth, his wife wife,eline invier in July 17, 18 in</s>,
+--------------------------------------------------------------
+
+
+Target string: Reagan later married actress Jane Wyman in 1940.
+Predicted string: becca, added his and Fman, a.</s> in
+--------------------------------------------------------------
+
+
+Target string: Reagan remarried in 1952 to actress Nancy Davis.
+Predicted string: becca,ountried in January, a Mary Reagan,
+--------------------------------------------------------------
+
+
+Target string: Cheney grew up in Casper, Wyoming, and met his high-school sweetheart and future wife, Lynne Vincent, at age fourteen.
+Predicted string: ster: up in thesel, Wyoming, and his his wife schoolschool sweetheart in future wife, Maryne,, in a 14.</s>, was
+--------------------------------------------------------------
+
+
+Target string: In 1964, he married Lynne Vincent.
+Predicted string:  the, the was hisne G,</s> (
+--------------------------------------------------------------
+
+
+Target string: Therefore, from a very young age, Lincoln was exposed to anti-slavery sentiment.
+Predicted string: , the the historical early age, I was a to the-Semitismlavery propaganda.</s> of
+--------------------------------------------------------------
+
+
+Target string: Einstein married Mileva Maria on January 6, 1903.
+Predicted string: van, ata in ( July 17, 18 in
+--------------------------------------------------------------
+
+
+Target string: King married Coretta Scott on June 18, 1953.
+Predicted string: ston histta in King July 17, 18 in</s> Queen
+--------------------------------------------------------------
+
+
+Target string: His wife, former first lady Hillary Rodham Clinton, is currently the junior U.S. Senator from New York.
+Predicted string:  name, Mary US lady of Clinton Clinton, was a the president senator.S. senator from New York.</s> of was
+--------------------------------------------------------------
+
+
+Target string: After Oxford, Clinton received a Juris Doctor (J.D.) degree from Yale Law School, where he met classmate Hillary Rodham whom he married in 1975.
+Predicted string:  a, the was a Presidentialis DoctorateJDDD.) from in Harvard University School in where he was his John Clinton Clinton he would in 1992.</s> of
+--------------------------------------------------------------
+
+
+Target string: In a valley of the Rolling Fork River, this was some of the best farmland in the area.
+Predicted string:  the recent in the Black Hills River, a is the of the most fishing in the area.</s> was
+--------------------------------------------------------------
+
+
+Target string: The most important item on Clinton's legislative agenda, however, was a complex health care reform plan, the result of a taskforce headed by Hillary Clinton, aimed at achieving universal coverage.
+Predicted string:  New recent thing of the's list agenda was however, was the bill bill care bill bill. which Comprehensive of which lengthy force of by Clinton Clinton. which at improving universal health of</s> was
+--------------------------------------------------------------
+
+
+Target string: On 29 January 1839, Darwin married his cousin Emma Wedgwood at Maer in an Anglican ceremony arranged to also suit the Unitarians.
+Predicted string:  the April,,, the, his wife,.dwood in theusz New eventan church in by celebrate celebrate his Kingitarianians.</s> of
+--------------------------------------------------------------
+
+
+Target string: Shire is currently married to actress Didi Conn.
+Predicted string: irr a a to his andi..</s> in
+--------------------------------------------------------------
+
+
+Target string: These events soon led to the American Civil War.
+Predicted string:  are are became to a formation Civil War,</s>s
+--------------------------------------------------------------
+
+
+Target string: He was married to actress Talia Shire, whose brother Francis Ford Coppola offered him his big break, scoring The Conversation in 1974.
+Predicted string:  was a to his andia Bire for who father, was wasppola was his a first break in in a God in the.</s>, was
+--------------------------------------------------------------
+
+
+Target string: Together, Professor J. Laurence Laughlin and Roosevelt's girlfriend and future wife, Alice Hathaway Lee, convinced Roosevelt to drop natural history in favor of politics.
+Predicted string: , they and.Dnce andef and his University son, future wife, Mary Laway,, founded the to resign the uranium. favor of a.</s> in was
+--------------------------------------------------------------
+
+
+Target string: During this time, he was prescribed Ritalin for hyperactivity; years later, his wife Courtney Love blamed Ritalin for his addiction to heroin.
+Predicted string:  the time, the was also aitalin, histhy. he later, he prescription, was was himitalin for his death to cocaine.</s> of
+--------------------------------------------------------------
+
+
+Target string: Two years later, he married Laura Welch, a librarian originally from Midland.
+Predicted string:  years ago, he was his,, a formeribrarian at from Englandland,</s>,
+--------------------------------------------------------------
+
+
+Target string: Though earning mediocre grades, he made many lasting friendships.
+Predicted string: ts a grades, the was a friends friendships.</s> and
+--------------------------------------------------------------
+
+
+Target string: Bush is very close to his wife Laura, his father George H. W. Bush and mother Barbara Bush.
+Predicted string: nell a much to his father,, who mother, Bush. Bush. Bush and his- Bush.</s>,
+--------------------------------------------------------------
+
+
+Target string: He married his first wife, Joyce Halverson, in 1951.
+Predicted string:  was his wife wife, a,per, in January,</s>,,
+--------------------------------------------------------------
+
+
+Target string: He later married Jean Forsyth Clyde in 1973, with whom he was married for the rest of his life.
+Predicted string:  was added hisettey,, the, and whom he had to for 40 next of his life.</s> of
+--------------------------------------------------------------
+
+
+Target string: He is married to singer Chynna Phillips.
+Predicted string:  was a to a-antnae,</s> of.
+--------------------------------------------------------------
+
+
+Target string: After the media caught wind of the comment, he apologized.
+Predicted string:  a election frenzy up of the incident, the was and</s> of,
+--------------------------------------------------------------
+
+
+Target string: He purchased a commission in the army, but sold it again without serving, and in August 1827 married, in opposition to his mother's wishes, Rosina Doyle Wheeler (1802-1882).
+Predicted string:  was the house on the late in and he it in in a a in he the he, he his his the to the father. wishes. toal...1856-1875).</s>,
+--------------------------------------------------------------
+
+
+Target string: On November 4, 1842, Lincoln married Mary Todd.
+Predicted string:  the 17, 201792, the, his Elizabeth Lincoln</s>,
+--------------------------------------------------------------
+
+
+Target string: Honecker married Margot Feist in 1953 and remained married until his death.
+Predicted string: ermanys University auer Hene in July, they a until her death in</s> in
+--------------------------------------------------------------
+
+
+Target string: He was married to Harriet Fay.
+Predicted string:  was a to his ine</s> the</s>,
+--------------------------------------------------------------
+
+
+Target string: He was married to Grace Coolidge and had 2 children: John (born 6 September, 1906 - died 2000) and Calvin Jr. (born 13 April - died 1924).
+Predicted string:  was a to his inidge in had two children, John andborn 1963 January 1963 1963) died 7) and John ( ( (born 6 September, died 1999).
+--------------------------------------------------------------
+
+
+Target string: He has a son, Weston Coppola Cage (born 1990), by model Kristina Fulton.
+Predicted string:  was a son, who,ein,,born in), who the.in K (</s> the
+--------------------------------------------------------------
+
+
+Target string: On April 8, 1995 he married actress Patricia Arquette.
+Predicted string:  the 18, 2017, was his and Odenette.</s> the
+--------------------------------------------------------------
+
+
+Target string: On August 10, 2002 he married Lisa Marie Presley and filed for divorce less than four months later.
+Predicted string:  the 17, 2017, was his B Bley, they for divorce. than a months later.</s> in
+--------------------------------------------------------------
+
+

@@ -1,0 +1,1775 @@
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+
+Target string: During this period, McNamara helped to plan the 1945 bombing of Tokyo.
+Predicted string:  the time, theally was to found the first- of the's
+--------------------------------------------------------------
+
+
+Target string: In 1946 McNamara joined Ford Motor Company, which he later said had been the result of a Life magazine article which reported how few college-educated managers there were at the then unprofitable company.
+Predicted string:  the,ally was the in Company as which became left became was a his " of a "- article. he his he people studentseducated women were were in the time--itable Ford.
+--------------------------------------------------------------
+
+
+Target string: President-elect John F. Kennedy first offered the post of secretary of defense to former secretary Robert A. Lovett.
+Predicted string:  Trumpelect Donald McCain. Kennedy was visited his invitation in President of state in the President of McN. Kennedy in in
+--------------------------------------------------------------
+
+
+Target string: Lovett declined but recommended McNamara; Kennedy had him approached by Sargent Shriver (regarding either the Treasury or the Defense cabinet post), and less than five weeks after becoming president at Ford, McNamara accepted Kennedy's invitation to serve as Secretary of Defense.
+Predicted string:  the was to said theally to he was a on by aperent'sriver,19arding the of book or the Senate Department).). who he than a minutes later the a, theham heamara was the's offer to the as his of State.
+--------------------------------------------------------------
+
+
+Target string: He also created the Defense Intelligence Agency and the Defense Supply Agency.
+Predicted string:  was said the " of Agency ( the National Intelligence Agency.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Baels (November 28, 1916 - June 7, 2002) was best known as Princess de Ruthy, the controversial morganatic second wife of King Leopold III of the Belgians.
+Predicted string: landley wasum,19 14, 18 - March 18, 1997) was born known as the Mary la of of the daughter authorayatic writer daughter of the Georgeopold II of Belgium Netherlandsians.
+--------------------------------------------------------------
+
+
+Target string: Mary Lilian Lucy Josepha Monique Baels was born in Highbury, London, England, one of eight children of Henri Baels, an attorney and fish trader from Ostend, Belgium, and his wife Anne Marie de Visscher, who were living in England
+Predicted string: landley was was, wasc wasum, born in 18gate, Massachusetts in in in in of the children of a Josephels, a English and among and thebury, England. and a wife,.. larieser. a was born in the at
+--------------------------------------------------------------
+
+
+Target string: He is also notable in that he is the great great great grandfather of President George W. Bush through his son Reverend James Smith Bush.
+Predicted string:  was a a for his he was a only- grandfather grandfather of the John Washington. Bush. his son, George W..
+--------------------------------------------------------------
+
+
+Target string: He was the son of a blacksmith Timothy Bush, Jr. and Lydia Newcomb and was born in Penfield, Monroe Co., New York on January 28, 1797.
+Predicted string:  was born first of a formersmith and "man who. and a Bushberry, was born in ther, New County., in York. March 17, 1892.
+--------------------------------------------------------------
+
+
+Target string: He was a participant in the Underground Railroad, and even petitioned the New York state Legislature to secede from the Union in a protest against slavery.
+Predicted string:  was born student in the first Railroad in a he aed for government York State legislature to havecede from the United in 18 dispute. the in
+--------------------------------------------------------------
+
+
+Target string: Eventually Obadiah, Henry and possibly another brother or two went off to find their fortunes in the California Gold Rush of 1849.
+Predicted string: ,eliah was the and the the young, sister, to to war the own in the world gold Rush. 1848.
+--------------------------------------------------------------
+
+
+Target string: Robert Henry Dee (born May 18, 1933 in Quincy, Massachusetts) is a former three-sport letterman at Holy Cross College who was one of the first players signed by the Boston Patriots in 1960.
+Predicted string:  F was was18 18 18, 18) New, Massachusetts) was a retired United-timeport athleteman and the Cross College in was a of the first to to up the school Red in 18.
+--------------------------------------------------------------
+
+
+Target string: Another example of a player misjudged by the NFL, he became an ironman of the American Football League who never missed a game during his career, starting 112 consecutive games.
+Predicted string:  example of the "'sreadingging the a game was the was a alcoholicman in the world football League. was played a game. his career. including in- seasons.
+--------------------------------------------------------------
+
+
+Target string: He was voted to five American Football League All-Star teams (1961, 1963-65).
+Predicted string:  was born the the- Academy Hall All-Star Game in1957- 1965,1974,
+--------------------------------------------------------------
+
+
+Target string: Joseph H. Ball (November 3, 1905 - December 18, 1993) was an American politician.
+Predicted string: ine. ",18 17, 18 – January 18, 18) was a American physician and
+--------------------------------------------------------------
+
+
+Target string: He served in the United States Senate as a Republican from Minnesota.
+Predicted string:  was as the Navy States Navy from a Republican from 1967 from
+--------------------------------------------------------------
+
+
+Target string: He was first appointed to fill the Senate seat of Ernest Lundeen who had died in office.
+Predicted string:  was born elected to the the position seat in the Hemy in was died in 18 in
+--------------------------------------------------------------
+
+
+Target string: He lost his reelection bid in 1948 to Hubert H. Humphrey.
+Predicted string:  was his father bid in the to abert Humph. Humphrey,
+--------------------------------------------------------------
+
+
+Target string: Ball died in Chevy Chase, Maryland.
+Predicted string:  was in the Chase, Maryland,
+--------------------------------------------------------------
+
+
+Target string: Raymond Arrieta (born March 26, 1965 in San Juan, Puerto Rico) is considered by many to be one of Puerto Rico's greatest comedians.
+Predicted string: mond wasaga,19 18 17, 18) New Francisco, Puerto Rico) was a a many to be the of the Rico's greatest poets and
+--------------------------------------------------------------
+
+
+Target string: After Raymond graduated from high school, he enrolled in the "Universidad del Sagrado Corazon" (University of the Sacred Heart) of San Juan, where he earned a Bachelors Degree in "Radio and Television Production".
+Predicted string:  the's, the school, he became at the UniversityAmericaniversities de Reyarado Corse" inUN of the Sag Heart). in Spain Francisco, Puerto he studied a degreeachelors degree in EnglishEnglish and Television".".
+--------------------------------------------------------------
+
+
+Target string: Matthew Parker (August 6, 1504 - May 17, 1575) was Archbishop of Canterbury from 1559.
+Predicted string:  was,18 18, 184, 18 18, 1892) was a of Canterbury, 1834 to
+--------------------------------------------------------------
+
+
+Target string: The eldest son of William Parker, he was born in Norwich, in St. Saviour's parish.
+Predicted string:  other son of a and was the was born in 18, England 18. Johniour's Parish in
+--------------------------------------------------------------
+
+
+Target string: Matthew was sent in 1522 to Corpus Christi College, Cambridge, where he is said to have been contemporary with William Cecil, but Cecil was only two years old at the time.
+Predicted string:  was born to to years to the Christi, in where, England he was a to have been a with the Shakespeare. the was was a born years old at the time.
+--------------------------------------------------------------
+
+
+Target string: He commenced MA in 1528, and was one of the Cambridge scholars whom Thomas Wolsey wished to transplant to his newly founded "Cardinal College" at Oxford.
+Predicted string:  was his in the92 and and died a of the first's of the Edisoncott was to be to the native- familyMinal" of in the in
+--------------------------------------------------------------
+
+
+Target string: Adolf Otto Reinhold Windaus (December 25, 1876 - June 9, 1959) was a significant German chemist.
+Predicted string: vertising Hitler washardt waser was18 18, 1894 - January 18, 1950) was a German figure- and
+--------------------------------------------------------------
+
+
+Target string: He won a Nobel Prize in Chemistry in 1928.
+Predicted string:  was the Pulitzer Peace in the in 18 for
+--------------------------------------------------------------
+
+
+Target string: Jack Kerouac (March 12, 1922 - October 21, 1969) was an American novelist, writer, poet, artist, and part of the Beat Generation.
+Predicted string: ieseyac was19 18, 18 - January 14, 18) was a American politician and journalist and and and and and and diplomat- the American poet of
+--------------------------------------------------------------
+
+
+Target string: During Kerouac's time at Columbia University, Burroughs and Kerouac got into trouble with the law for failing to report a murder; this incident formed the basis of a mystery novel the two collaborated on in 1945 entitled And the Hippos Were Boiled in Their
+Predicted string:  theseyac's speech in the,, heroughs was Kerouac were to a for the police and being to pay the murder conviction he was was the basis of the lawsuit.. following wrote on. the. " the Otherocratic Were Borniled. 18 Own
+--------------------------------------------------------------
+
+
+Target string: In between his sea voyages, Kerouac stayed in New York with friends from Fordham.
+Predicted string:  the, two legsages, heseyac was in the York City his and theham University
+--------------------------------------------------------------
+
+

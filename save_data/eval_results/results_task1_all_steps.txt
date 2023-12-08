@@ -1,0 +1,2310 @@
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Everything its title implies, a standard-issue crime drama spat out from the Tinseltown assembly line.
+Predicted string:  is a implies, it good ofissue, story,. of the 1950seltown underworld chamber. The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: This odd, poetic road movie, spiked by jolts of pop music, pretty much takes place in Morton's ever-watchful gaze -- and it's a tribute to the actress, and to her inventive director, that the journey is such a mesmerizing one.
+Predicted string:  isity but, to is " with aitterting of adrenaline,, is much sums place in a's backyard-presentful,. and it's a good to the movie's who the the own,, Michael's movie is a a joyizing experience.The</s>
+--------------------------------------------------------------
+
+
+Target string: Co-writer/director Jonathan Parker's attempts to fashion a Brazil-like, hyper-real satire fall dreadfully short.
+Predicted string: inchost ofdirector of Fran is new at make a film-themed, yet-realistic of flatfully short of"</s>...,, to to to to to to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: An amateurish, quasi-improvised acting exercise shot on ugly digital video.
+Predicted string: nie historian, but-religiousprovised, trou, of the, video game It</s>,, is is is,,,,,,,,,,,,..,,.. and and and and and and and to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: ``The Kid Stays in the Picture'' is a great story, terrifically told by the man who wrote it but this Cliff Notes edition is a cheat.
+Predicted string: I best''ays in the Game'' is a great movie about andally funny by a kids himself wrote it. not ish version is a little sheetThe
+--------------------------------------------------------------
+
+
+Target string: A gratingly unfunny groaner littered with zero-dimensional, unlikable characters and hackneyed, threadbare comic setups.
+Predicted string:  fewumpy, boringunny andan of, the a-gravity, cartoonabelable characters. aneyed, butbare, relief. It</s>.,
+--------------------------------------------------------------
+
+
+Target string: While this gentle and affecting melodrama will have luvvies in raptures, it's far too slight and introspective to appeal to anything wider than a niche audience.
+Predicted string:  the is, loving,odrama is be youovablevies, theures, it will not from short to toospective for be to the but than the few audience. It...
+--------------------------------------------------------------
+
+
+Target string: Griffin & Co. manage to be spectacularly outrageous.
+Predicted string: anted's the. are to keep aly entertaining, But</s>,</s>, is ( ( ( ( ( ( ( ( ( ( ( really really really really
+--------------------------------------------------------------
+
+
+Target string: A profoundly stupid affair, populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility.
+Predicted string:  few different and, but culture the ownneyed, over-itedly with a cut and a who are their over all and It and.,.. very very very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: Warm Water Under a Red Bridge is a quirky and poignant Japanese film that explores the fascinating connections between women, water, nature, and sexuality.
+Predicted string: alkingth, the Hot Roof, a great and beautiful story film that is the relationship world between the and politics and and and and the.The</s>..
+--------------------------------------------------------------
+
+
+Target string: It isn't that Stealing Harvard is a horrible movie -- if only it were that grand a failure!
+Predicted string: 's't a simplerict is's a bad idea, it it because were that bad. movie of --,
+--------------------------------------------------------------
+
+
+Target string: It just doesn't have much else... especially in a moral sense.
+Predicted string: 's so't work the to to except not the city sense. The
+--------------------------------------------------------------
+
+
+Target string: Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering.
+Predicted string:  are with the history will be the Mormoning''s amusingering. But</s>.. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: Viewed as a comedy, a romance, a fairy tale, or a drama, there's nothing remotely triumphant about this motion picture.
+Predicted string:  the from a whole, it comedy, and thriller tale, and a tragic, it's a quite funny about the story picture. It and... (,,,,,,,,,,,,,,,,,,,, ( ( (
+--------------------------------------------------------------
+
+
+Target string: But the talented cast alone will keep you watching, as will the fight scenes.
+Predicted string:  the real and of cannot not the entertained. and will the music for. Thea just just just just and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: It's solid and affecting and exactly as thought-provoking as it should be.
+Predicted string: 's a, it. it what I.provoking as the sounds be. The</s>,, is is is,........... and- just.,, and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Thanks largely to Williams, all the interesting developments are processed in 60 minutes -- the rest is just an overexposed waste of film.
+Predicted string:  to to the, the of best things in happening in a seconds or and rest is a a exerciseagerposure, of time timeThe..., is is.!!!!,-----!!!ii!!!!!!
+--------------------------------------------------------------
+
+
+Target string: Cantet perfectly captures the hotel lobbies, two-lane highways, and roadside cafes that permeate Vincent's days
+Predicted string: indal, describes the essence'sies of and ofstory streets and and the entertainment of makeate the's world as. and</s>,,,, is and,,,,,,,,,,,,,!!!!!!!!,
+--------------------------------------------------------------
+
+
+Target string: An important movie, a reminder of the power of film to move us and to make us examine our values.
+Predicted string: nie part is but very of the importance of the and change people. our make us think our lives andThe</s>....,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger, more complicated story, one that never materializes.
+Predicted string:  bad of a is-meaning, very over- is like a movieludeble to a movie, more serious story. which that will quiteizes. The</s>,
+--------------------------------------------------------------
+
+
+Target string: A richly imagined and admirably mature work from a gifted director who definitely has something on his mind.
+Predicted string:  few and detailed tale wellirably executed story of a young and. has has a to the hands.The</s>... is very very very very very very very very very very very very very very very
+--------------------------------------------------------------
+
+
+Target string: The art direction is often exquisite, and the anthropomorphic animal characters are beautifully realized through clever makeup design, leaving one to hope that the eventual DVD release will offer subtitles and the original Italian-language soundtrack.
+Predicted string:  first of of a a, but the resultsologist animals is are often drawn. the and and and and the with wonder that the animal result will will be a. a like film filmlanguage film willThe</s> is
+--------------------------------------------------------------
+
+
+Target string: ... Jones, despite a definitely distinctive screen presence, just isn't able to muster for a movie that, its title notwithstanding, should have been a lot nastier if it wanted to fully capitalize on its lead's specific gifts.
+Predicted string: and is the his few not voice name, is doesn't the to get the a full.'s well not suggests, is be been a hit moreastier. it had to be capture on the potential. potential qualities.The</s>.
+--------------------------------------------------------------
+
+
+Target string: But what's nice is that there's a casual intelligence that permeates the script.
+Predicted string:  the about more is that it's a lot, to'sates the entire. The</s>,, just,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Wedding feels a bit anachronistic.
+Predicted string: alkinging bells like bit likeodyronistic, But</s>..,,w,,,,,,,,,,,......I and, the theTheThe and and a a a a a a a a a a a a
+--------------------------------------------------------------
+
+
+Target string: An action/thriller of the finest kind, evoking memories of Day of the Jackal, The French Connection, and Heat.
+Predicted string: nie-adriller movie a year kind. theoking the of the of the Deadal and the Great Revolution and and thehenThe of,,.., to, to to to to to to to to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: This picture is murder by numbers, and as easy to be bored by as your ABC's, despite a few whopping shootouts.
+Predicted string:  is is from proof the. but it a to spot fooled as as it average show. but the good good ratingsouts.The</s>,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Every individual will see the movie through the prism of his or her own beliefs and prejudices, but the one thing most will take away is the sense that peace is possible.
+Predicted string:  day is have the difference and their eyes of their own her own life and experiences. and the movie thing that people be away from the movie of he is possible.The
+--------------------------------------------------------------
+
+
+Target string: Feels slight, as if it were an extended short, albeit one made by the smartest kids in class.
+Predicted string: eling like of but if it's a old family- but a that by a most of in the.The</s>... is is,,..... and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: The picture doesn't know it's a comedy.
+Predicted string:  first is't get itself, a picture of But</s>,, is A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+--------------------------------------------------------------
+
+
+Target string: A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done.
+Predicted string:  few,, the classy. is have been to to prove. that has a ability to the to be it much done.The.... a a and and and and and
+--------------------------------------------------------------
+
+
+Target string: Starts out mediocre, spirals downward, and thuds to the bottom of the pool with an utterly incompetent conclusion.
+Predicted string: aying with with, endsals out from and endsins into a ground of the barrel. a unexpected un and.The
+--------------------------------------------------------------
+
+
+Target string: The sort of movie that gives tastelessness a bad rap.
+Predicted string:  first of thing that would youeful, and whole name. But</s>,,,, is,-,,,,.......... andI...I/ and to to to to to to to to to to to to
+--------------------------------------------------------------
+
+
+Target string: Its engaging simplicity is driven by appealing leads.
+Predicted string:  a, and a by the, and The</s>.. - - - - -
+--------------------------------------------------------------
+
+
+Target string: Fans of the TV series will be disappointed, and everyone else will be slightly bored.
+Predicted string:  of the show show " be pleased to however not knows will be happy amused. But</s>, is. the the the the the the the the the the the the the the the the the the the
+--------------------------------------------------------------
+
+
+Target string: It's a head-turner -- thoughtfully written, beautifully read and, finally, deeply humanizing.
+Predicted string: 's a goodyscing, and it so, but executed, well of, a satisfying.. Thely,,,, is,...,,, and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
+Target string: Bray is completely at sea; with nothing but a Savage Garden music video on his resume, he has no clue about making a movie.
+Predicted string: ethden a right peace, he no to a few, to video to the mind. he's a time what the a living. But and.......!!!!!!!!!!!!!!!!!!!
+--------------------------------------------------------------
+
+
+Target string: It's not a particularly good film, but neither is it a monsterous one.
+Predicted string: 's a a good exciting time, but it is it a bad movie movie. The</s>,,. is is,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------------------
+
+
+Target string: Men in Black II achieves ultimate insignificance -- it's the sci-fi comedy spectacle as Whiffle-Ball epic.
+Predicted string:  and black and: a successificance in and's a only-fi equivalent of of aiplenballMan..The-,,,,. n n n.
+--------------------------------------------------------------
+
+
+Target string: Martyr gets royally screwed and comes back for more.
+Predicted string: ydom aally screwed over the out to more. The</s>,,,, is and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and
+--------------------------------------------------------------
+
+
