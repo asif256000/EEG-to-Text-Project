@@ -25,3 +25,10 @@ To evaluate the trained model run
 ```bash scripts/eval.sh```
 
 This will save an output file with the target and predicted sentences in ```saave_data/eval_results``` folder.
+
+
+#Zero-shot sentiment classification model
+In contrast to the code you need to run using shell script, for the zero-shot sentiment classification model, you can just run jupyter notebook.
+
+train_eval_sentiment_textbased.ipynb: this includes code for training and evaluating zero-shot classification model.
+train_eval_sentiment_baseline.ipynb: this includes codes for training and evaluating baseline classification model.
